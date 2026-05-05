@@ -1,4 +1,4 @@
-cd "C:\Users\KENDAGOR\Desktop\Essay Master API"
-echo venv/ > .gitignore
-echo __pycache__/ >> .gitignore
-echo *.pyc >> .gitignore
+venv/
+__pycache__/
+*.pyc
+.env
